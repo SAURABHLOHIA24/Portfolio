@@ -4,7 +4,7 @@ Official GitHub profile repository showcasing my tech stack, featured projects, 
 
 ## Live Demo
 
-> Add the Vercel URL here after deployment, for example: `https://saurabh-lohia.vercel.app`
+**https://saurabhlohiavercelapp.vercel.app/**
 
 ## Project Structure
 
